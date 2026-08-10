@@ -1,0 +1,93 @@
+{
+  "vocabulary": [
+    "click_low",
+    "click_mid",
+    "click_high",
+    "hum_low",
+    "hum_mid",
+    "hum_high",
+    "chirp_up",
+    "chirp_down",
+    "chord_simple",
+    "chord_rich",
+    "chord_alien"
+  ],
+  "sentences": {
+    "greeting": [
+      "click_high",
+      "click_high",
+      "hum_mid",
+      "chirp_up",
+      "click_mid"
+    ],
+    "question": [
+      "hum_low",
+      "click_mid",
+      "click_low",
+      "chirp_up",
+      "chirp_up"
+    ],
+    "danger": [
+      "chirp_down",
+      "chirp_down",
+      "chord_alien",
+      "click_high",
+      "click_high",
+      "click_high"
+    ],
+    "i_understand": [
+      "chord_simple",
+      "hum_mid",
+      "click_low",
+      "hum_high",
+      "chord_rich"
+    ],
+    "help_needed": [
+      "chirp_up",
+      "chord_alien",
+      "hum_low",
+      "chirp_down",
+      "click_high",
+      "chord_rich"
+    ]
+  },
+  "english_meaning": {
+    "greeting": "Hello / I am here",
+    "question": "What is this?",
+    "danger": "Warning! Danger!",
+    "i_understand": "I understand",
+    "help_needed": "I need help"
+  },
+  "cluster_map": {},
+  "units_detected": 28,
+  "onset_times": [
+    0.10158730158730159,
+    0.2234920634920635,
+    0.5514739229024943,
+    0.7720634920634921,
+    1.3090249433106576,
+    1.6718367346938776,
+    1.7908390022675738,
+    1.9127437641723355,
+    2.147845804988662,
+    2.780589569160998,
+    3.006984126984127,
+    3.2420861678004536,
+    3.5555555555555554,
+    3.6658503401360543,
+    3.776145124716553,
+    4.304399092970521,
+    4.365351473922902,
+    4.4321088435374145,
+    4.5830385487528345,
+    4.896507936507937,
+    5.030022675736961,
+    5.299954648526077,
+    6.0778231292517,
+    6.318730158730158,
+    6.646712018140589,
+    7.024036281179138,
+    7.241723356009071,
+    7.369433106575964
+  ]
+}
