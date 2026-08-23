@@ -58,7 +58,18 @@
     "i_understand": "I understand",
     "help_needed": "I need help"
   },
-  "cluster_map": {},
+  "cluster_map": {
+    "0": "hum_mid",
+    "1": "click_high",
+    "2": "chirp_up",
+    "3": "hum_mid",
+    "4": "click_high",
+    "5": "hum_low",
+    "7": "chirp_down",
+    "8": "chirp_up",
+    "9": "chord_simple",
+    "10": "click_high"
+  },
   "units_detected": 28,
   "onset_times": [
     0.10158730158730159,
@@ -89,5 +100,281 @@
     7.024036281179138,
     7.241723356009071,
     7.369433106575964
+  ],
+  "sound_to_word": {
+    "click_low": "I",
+    "click_mid": "here",
+    "click_high": "warning",
+    "hum_low": "what",
+    "hum_mid": "am",
+    "hum_high": "safe",
+    "chirp_up": "question",
+    "chirp_down": "danger",
+    "chord_simple": "understand",
+    "chord_rich": "need",
+    "chord_alien": "critical"
+  },
+  "decoded_sequence": [
+    [
+      1,
+      "click_high",
+      "warning",
+      0.102
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      0.223
+    ],
+    [
+      0,
+      "hum_mid",
+      "am",
+      0.551
+    ],
+    [
+      2,
+      "chirp_up",
+      "question",
+      0.772
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      1.309
+    ],
+    [
+      5,
+      "hum_low",
+      "what",
+      1.672
+    ],
+    [
+      5,
+      "hum_low",
+      "what",
+      1.791
+    ],
+    [
+      0,
+      "hum_mid",
+      "am",
+      1.913
+    ],
+    [
+      8,
+      "chirp_up",
+      "question",
+      2.148
+    ],
+    [
+      0,
+      "hum_mid",
+      "am",
+      2.781
+    ],
+    [
+      0,
+      "hum_mid",
+      "am",
+      3.007
+    ],
+    [
+      7,
+      "chirp_down",
+      "danger",
+      3.242
+    ],
+    [
+      1,
+      "click_high",
+      "warning",
+      3.556
+    ],
+    [
+      1,
+      "click_high",
+      "warning",
+      3.666
+    ],
+    [
+      10,
+      "click_high",
+      "warning",
+      3.776
+    ],
+    [
+      5,
+      "hum_low",
+      "what",
+      4.304
+    ],
+    [
+      9,
+      "chord_simple",
+      "understand",
+      4.365
+    ],
+    [
+      3,
+      "hum_mid",
+      "am",
+      4.432
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      4.583
+    ],
+    [
+      5,
+      "hum_low",
+      "what",
+      4.897
+    ],
+    [
+      0,
+      "hum_mid",
+      "am",
+      5.03
+    ],
+    [
+      8,
+      "chirp_up",
+      "question",
+      5.3
+    ],
+    [
+      0,
+      "hum_mid",
+      "am",
+      6.078
+    ],
+    [
+      7,
+      "chirp_down",
+      "danger",
+      6.319
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      6.647
+    ],
+    [
+      0,
+      "hum_mid",
+      "am",
+      7.024
+    ],
+    [
+      1,
+      "click_high",
+      "warning",
+      7.242
+    ],
+    [
+      6,
+      "unknown",
+      "?",
+      7.369
+    ]
+  ],
+  "sentences_detected": [
+    {
+      "start_time": 0.102,
+      "words": [
+        "warning",
+        "warning",
+        "am",
+        "question"
+      ],
+      "sounds": [
+        "click_high",
+        "click_high",
+        "hum_mid",
+        "chirp_up"
+      ]
+    },
+    {
+      "start_time": 1.309,
+      "words": [
+        "warning",
+        "what",
+        "what",
+        "am",
+        "question"
+      ],
+      "sounds": [
+        "click_high",
+        "hum_low",
+        "hum_low",
+        "hum_mid",
+        "chirp_up"
+      ]
+    },
+    {
+      "start_time": 2.781,
+      "words": [
+        "am",
+        "am",
+        "danger",
+        "warning",
+        "warning",
+        "warning"
+      ],
+      "sounds": [
+        "hum_mid",
+        "hum_mid",
+        "chirp_down",
+        "click_high",
+        "click_high",
+        "click_high"
+      ]
+    },
+    {
+      "start_time": 4.304,
+      "words": [
+        "what",
+        "understand",
+        "am",
+        "warning",
+        "what",
+        "am",
+        "question"
+      ],
+      "sounds": [
+        "hum_low",
+        "chord_simple",
+        "hum_mid",
+        "click_high",
+        "hum_low",
+        "hum_mid",
+        "chirp_up"
+      ]
+    },
+    {
+      "start_time": 6.078,
+      "words": [
+        "am",
+        "danger",
+        "warning",
+        "am",
+        "warning",
+        "?"
+      ],
+      "sounds": [
+        "hum_mid",
+        "chirp_down",
+        "click_high",
+        "hum_mid",
+        "click_high",
+        "unknown"
+      ]
+    }
   ]
 }
