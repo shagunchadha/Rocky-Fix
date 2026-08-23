@@ -1,4 +1,4 @@
-# REDARC — Rocky Environment Decoder and Response Converter
+# Rocky Environment Decoder and Response Converter
 
 Inspired by *Project Hail Mary* by Andy Weir, where an alien named Rocky communicates through structured pressure waves. This project builds a pipeline that takes audio input, finds repeating patterns, maps them to English words, and reconstructs meaningful sentences.
 
