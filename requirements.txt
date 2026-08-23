@@ -4,6 +4,5 @@ matplotlib
 librosa
 soundfile
 scikit-learn
-streamlit
 ipython
 jupyter
