@@ -2,3 +2,4 @@ my_explanation/
 audio/*.wav
 data/*.npy
 frontend/node_modules/
+.env

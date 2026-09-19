@@ -133,3 +133,15 @@ sin wave  +  envelope shaping  +  optional frequency change  +  optional superpo
 ```
 
 Four operations. The output sounds genuinely alien. The detection notebook's job is to take a WAV file and automatically find where each sound unit begins and ends — without knowing any of the above.
+
+## Update — Expanded Dataset
+
+The original synthesis produced 5 sentences (~30 sound units total). This was insufficient for K-Means clustering — too few examples per sound type for the algorithm to find clean boundaries.
+
+The dataset was expanded to 50 sentences (~270 units) by generating 45 additional random sentences using all 11 sound types. Each sound type now appears roughly 20-25 times across the dataset, giving the clustering algorithm enough examples to work with.
+
+The 5 original sentences with known English meanings are preserved exactly. The 45 additional sentences are randomly generated combinations used purely to increase the volume of training data — they don't have assigned meanings and are not used in the translation step.
+
+## Why more data helps clustering
+
+K-Means finds cluster centers by averaging the positions of all points assigned to that cluster. With only 2-3 examples of a sound type, a single outlier can pull the center in the wrong direction. With 20+ examples, outliers average out and the center converges to the true acoustic profile of that sound type.

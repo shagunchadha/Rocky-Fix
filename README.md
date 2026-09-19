@@ -95,3 +95,18 @@ Read the matching file in `docs/` for theory behind each notebook.
 | Clustering | `scikit-learn` |
 | Translation | Claude API |
 | Final UI | `streamlit` |
+
+## Current limitations
+
+Clustering accuracy on synthesized audio is approximately 35-40%. The 11 synthesized sound types share overlapping acoustic properties in MFCC feature space, making clean separation difficult with K-Means. The pipeline architecture is correct and runs end to end — the limitation is specific to the synthesized sound vocabulary.
+
+## Why this happens
+
+Sounds like chord_simple, chord_rich and chord_alien differ only in their frequency combinations. Their envelopes, durations and overall energy profiles are nearly identical, so their MFCC fingerprints overlap significantly in feature space. K-Means cannot reliably separate them regardless of dataset size.
+
+## Planned improvements
+Redesign synthesized sounds with wider acoustic separation
+Reduce vocabulary to 5-6 genuinely separable sound types
+Replace K-Means with DBSCAN or Gaussian Mixture Models
+Test on real microphone audio input
+Larger and more diverse training data

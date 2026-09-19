@@ -92,3 +92,28 @@ This matrix is what the clustering notebook reads — it groups units with simil
 | `data/onset_times.npy` | Onset time of each unit in seconds |
 | `data/dictionary.json` | Updated with unit count and onset times |
 | `audio/onset_detection.png` | Visualization of detected onsets |
+
+
+## Update — MFCC Features
+
+The original feature set of 4 values (dominant frequency, duration, mean RMS, spectral centroid) was insufficient to separate the 11 sound types cleanly. Sounds with similar frequencies but different timbral qualities — for example chord_simple vs chord_rich vs chord_alien — produced nearly identical 4-feature vectors, causing K-Means to merge them into the same cluster.
+
+## What MFCCs add
+
+13 MFCC coefficients were added to the feature vector, bringing the total from 4 to 17 features. MFCCs capture the full spectral shape of a sound across frequency bands weighted by human perception — essentially a timbral fingerprint. Two sounds can have the same dominant frequency but completely different MFCC profiles if their internal frequency distributions differ.
+
+Each audio slice is passed through librosa.feature.mfcc() which returns a 13×N matrix — 13 coefficients across N time frames. We take the mean of each coefficient across time, giving 13 numbers that summarize the timbral character of the whole unit.
+
+## Impact
+
+The PCA projection after adding MFCCs showed significantly more structure — several clusters formed visually distinct separated groups rather than one large mixed blob. Clustering accuracy improved but remained imperfect due to the fundamental acoustic similarity of synthesized sounds. See docs/cluster_sounds.md for full analysis.
+
+## Minimum length padding
+
+librosa.feature.mfcc requires a minimum of 512 samples. Very short units (clicks under ~12ms) fall below this threshold. A zero-padding step was added:
+
+python
+if len(audio_f32) < 512:
+    audio_f32 = np.pad(audio_f32, (0, 512 - len(audio_f32)))
+
+This extends the audio with silence before MFCC extraction without affecting the timbral measurement meaningfully.

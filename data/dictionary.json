@@ -49,6 +49,247 @@
       "chirp_down",
       "click_high",
       "chord_rich"
+    ],
+    "extra_1": [
+      "click_low",
+      "hum_mid"
+    ],
+    "extra_2": [
+      "hum_low",
+      "click_high",
+      "click_mid"
+    ],
+    "extra_3": [
+      "chord_rich",
+      "chirp_up"
+    ],
+    "extra_4": [
+      "click_low",
+      "click_mid"
+    ],
+    "extra_5": [
+      "hum_low",
+      "chord_simple",
+      "chord_rich"
+    ],
+    "extra_6": [
+      "chord_simple",
+      "hum_low"
+    ],
+    "extra_7": [
+      "hum_low",
+      "chirp_down",
+      "chord_rich",
+      "hum_mid",
+      "click_low"
+    ],
+    "extra_8": [
+      "chirp_up",
+      "hum_high",
+      "hum_mid"
+    ],
+    "extra_9": [
+      "hum_low",
+      "hum_high",
+      "click_mid"
+    ],
+    "extra_10": [
+      "chirp_up",
+      "click_mid"
+    ],
+    "extra_11": [
+      "hum_high",
+      "chord_rich",
+      "hum_mid",
+      "click_low"
+    ],
+    "extra_12": [
+      "chord_simple",
+      "click_mid",
+      "chirp_up",
+      "click_mid",
+      "chord_simple"
+    ],
+    "extra_13": [
+      "chord_alien",
+      "chord_rich",
+      "hum_high",
+      "chord_rich"
+    ],
+    "extra_14": [
+      "click_mid",
+      "click_low",
+      "chord_alien"
+    ],
+    "extra_15": [
+      "hum_mid",
+      "click_mid",
+      "hum_low"
+    ],
+    "extra_16": [
+      "chirp_up",
+      "hum_mid"
+    ],
+    "extra_17": [
+      "chord_alien",
+      "hum_high",
+      "click_high",
+      "hum_high",
+      "hum_high"
+    ],
+    "extra_18": [
+      "chord_alien",
+      "hum_mid",
+      "chord_alien"
+    ],
+    "extra_19": [
+      "chord_rich",
+      "chord_alien"
+    ],
+    "extra_20": [
+      "chord_simple",
+      "hum_low",
+      "click_high"
+    ],
+    "extra_21": [
+      "chirp_up",
+      "hum_mid",
+      "chord_alien",
+      "chord_simple",
+      "hum_low"
+    ],
+    "extra_22": [
+      "click_low",
+      "hum_low",
+      "click_low",
+      "hum_high"
+    ],
+    "extra_23": [
+      "hum_mid",
+      "click_mid",
+      "hum_low",
+      "chord_rich",
+      "hum_high"
+    ],
+    "extra_24": [
+      "chord_alien",
+      "chirp_down",
+      "chirp_up"
+    ],
+    "extra_25": [
+      "click_high",
+      "hum_mid",
+      "click_high",
+      "hum_low",
+      "chord_simple"
+    ],
+    "extra_26": [
+      "chord_rich",
+      "chirp_up",
+      "chord_rich",
+      "chirp_up"
+    ],
+    "extra_27": [
+      "hum_low",
+      "click_high",
+      "chord_simple",
+      "chirp_down"
+    ],
+    "extra_28": [
+      "click_low",
+      "click_mid"
+    ],
+    "extra_29": [
+      "chord_alien",
+      "click_high",
+      "chord_alien"
+    ],
+    "extra_30": [
+      "chord_rich",
+      "click_mid",
+      "chirp_up",
+      "chirp_up",
+      "chord_rich"
+    ],
+    "extra_31": [
+      "chord_simple",
+      "hum_mid",
+      "chord_simple",
+      "click_low",
+      "chord_alien"
+    ],
+    "extra_32": [
+      "chord_alien",
+      "chord_simple"
+    ],
+    "extra_33": [
+      "chord_alien",
+      "hum_high",
+      "click_mid",
+      "hum_mid"
+    ],
+    "extra_34": [
+      "click_high",
+      "chirp_down",
+      "click_low",
+      "hum_mid",
+      "chord_simple"
+    ],
+    "extra_35": [
+      "chord_simple",
+      "click_mid",
+      "chord_alien"
+    ],
+    "extra_36": [
+      "chord_alien",
+      "chord_simple",
+      "chord_rich",
+      "hum_low"
+    ],
+    "extra_37": [
+      "hum_high",
+      "click_high",
+      "chord_simple"
+    ],
+    "extra_38": [
+      "chord_rich",
+      "hum_high"
+    ],
+    "extra_39": [
+      "click_low",
+      "click_mid",
+      "hum_high",
+      "hum_mid",
+      "hum_low"
+    ],
+    "extra_40": [
+      "hum_low",
+      "chord_rich"
+    ],
+    "extra_41": [
+      "click_mid",
+      "chirp_down"
+    ],
+    "extra_42": [
+      "chord_simple",
+      "click_high"
+    ],
+    "extra_43": [
+      "chord_alien",
+      "chirp_down",
+      "chord_simple"
+    ],
+    "extra_44": [
+      "hum_mid",
+      "chord_simple",
+      "chord_rich"
+    ],
+    "extra_45": [
+      "hum_low",
+      "chord_simple",
+      "hum_low",
+      "hum_mid",
+      "chirp_up"
     ]
   },
   "english_meaning": {
@@ -59,18 +300,19 @@
     "help_needed": "I need help"
   },
   "cluster_map": {
-    "0": "hum_mid",
-    "1": "click_high",
-    "2": "chirp_up",
-    "3": "hum_mid",
+    "0": "hum_high",
+    "1": "chirp_up",
+    "2": "chord_simple",
+    "3": "hum_low",
     "4": "click_high",
-    "5": "hum_low",
-    "7": "chirp_down",
-    "8": "chirp_up",
-    "9": "chord_simple",
-    "10": "click_high"
+    "5": "chord_rich",
+    "6": "chirp_down",
+    "7": "hum_mid",
+    "8": "click_low",
+    "9": "click_mid",
+    "10": "chord_alien"
   },
-  "units_detected": 28,
+  "units_detected": 272,
   "onset_times": [
     0.10158730158730159,
     0.2234920634920635,
@@ -99,7 +341,251 @@
     6.646712018140589,
     7.024036281179138,
     7.241723356009071,
-    7.369433106575964
+    7.369433106575964,
+    8.129886621315192,
+    8.257596371882086,
+    8.991927437641724,
+    9.354739229024943,
+    9.465034013605441,
+    10.004897959183673,
+    10.08907029478458,
+    10.14421768707483,
+    10.234195011337869,
+    10.37641723356009,
+    10.994648526077098,
+    11.110748299319727,
+    11.644807256235827,
+    12.030839002267573,
+    12.123718820861678,
+    12.19047619047619,
+    12.309478458049886,
+    12.379138321995464,
+    12.469115646258503,
+    12.559092970521542,
+    13.090249433106576,
+    13.157006802721089,
+    13.223764172335601,
+    13.36888888888889,
+    14.146757369614512,
+    14.521179138321996,
+    14.759183673469387,
+    15.13360544217687,
+    15.449977324263038,
+    15.978231292517007,
+    16.207528344671204,
+    16.491972789115646,
+    17.217596371882085,
+    17.603628117913832,
+    17.86485260770975,
+    18.393106575963717,
+    18.616598639455784,
+    19.150657596371882,
+    19.435102040816325,
+    19.80952380952381,
+    20.125895691609976,
+    20.659954648526078,
+    20.74702947845805,
+    20.813786848072564,
+    20.921179138321996,
+    21.05469387755102,
+    21.269478458049885,
+    21.40299319727891,
+    21.510385487528346,
+    22.08798185941043,
+    22.160544217687075,
+    22.209886621315192,
+    22.29986394557823,
+    22.418866213151926,
+    22.474013605442178,
+    22.529160997732426,
+    22.619138321995464,
+    22.674285714285713,
+    22.796190476190475,
+    23.07482993197279,
+    23.124172335600907,
+    23.214149659863946,
+    23.304126984126984,
+    23.84108843537415,
+    23.960090702947845,
+    24.09360544217687,
+    24.825034013605443,
+    25.135600907029477,
+    25.27201814058957,
+    26.049886621315192,
+    26.284988662131518,
+    27.013514739229024,
+    27.344399092970523,
+    27.60562358276644,
+    27.727528344671203,
+    28.011972789115646,
+    28.688253968253967,
+    28.760816326530612,
+    28.81015873015873,
+    28.89142857142857,
+    29.024943310657598,
+    29.352925170068026,
+    29.43419501133787,
+    29.51546485260771,
+    29.564807256235827,
+    30.0843537414966,
+    30.154013605442177,
+    30.209160997732425,
+    30.299138321995464,
+    30.46748299319728,
+    30.54004535147392,
+    30.58938775510204,
+    30.63873015873016,
+    31.187301587301587,
+    31.33532879818594,
+    31.471746031746033,
+    31.834557823129252,
+    32.359909297052155,
+    32.59501133786848,
+    32.92299319727891,
+    33.04489795918367,
+    33.13487528344671,
+    33.248072562358274,
+    33.35546485260771,
+    33.52961451247165,
+    34.29587301587301,
+    34.42938775510204,
+    34.792199546485264,
+    34.91990929705216,
+    35.604897959183674,
+    35.91546485260771,
+    36.0518820861678,
+    36.43501133786848,
+    36.812335600907026,
+    37.49732426303855,
+    37.56988662131519,
+    37.65986394557823,
+    37.81659863945578,
+    38.04299319727891,
+    38.66702947845805,
+    38.79183673469388,
+    39.10530612244898,
+    39.22721088435374,
+    39.60743764172336,
+    39.688707482993195,
+    39.75546485260771,
+    40.28952380952381,
+    40.338866213151924,
+    40.394013605442176,
+    40.483990929705215,
+    40.539138321995466,
+    40.66975056689343,
+    40.90485260770975,
+    40.98902494331066,
+    41.0790022675737,
+    41.134149659863944,
+    41.27637188208617,
+    41.912018140589566,
+    42.27482993197279,
+    42.40544217687075,
+    42.51863945578231,
+    42.67827664399093,
+    43.296507936507936,
+    43.4097052154195,
+    43.9524716553288,
+    44.26013605442177,
+    44.387845804988665,
+    45.11927437641723,
+    45.48208616780045,
+    45.60979591836735,
+    45.844897959183676,
+    46.08,
+    46.86077097505669,
+    46.953650793650795,
+    47.13360544217687,
+    47.470294784580496,
+    47.53705215419501,
+    47.603809523809524,
+    47.73151927437642,
+    47.86213151927438,
+    48.59356009070295,
+    48.65160997732426,
+    48.73287981859411,
+    48.782222222222224,
+    48.92444444444445,
+    48.985396825396826,
+    49.05215419501134,
+    49.603628117913836,
+    49.9287074829932,
+    50.195736961451246,
+    50.3350566893424,
+    51.04616780045352,
+    51.168072562358276,
+    51.38575963718821,
+    51.5134693877551,
+    51.85015873015873,
+    51.916916099773246,
+    51.98367346938775,
+    52.52934240362812,
+    52.5902947845805,
+    52.657052154195014,
+    52.790566893424035,
+    52.926984126984124,
+    53.6584126984127,
+    53.707755102040814,
+    53.75709750566894,
+    53.838367346938774,
+    53.98929705215419,
+    54.05024943310658,
+    54.117006802721086,
+    54.265034013605444,
+    54.32888888888889,
+    54.384036281179135,
+    54.474013605442174,
+    54.529160997732426,
+    54.64235827664399,
+    55.42312925170068,
+    55.69015873015873,
+    55.82077097505669,
+    55.913650793650795,
+    56.49995464852608,
+    56.58412698412698,
+    56.67410430839002,
+    56.72925170068027,
+    56.87437641723356,
+    57.54195011337868,
+    57.655147392290246,
+    57.788662131519274,
+    58.067301587301586,
+    58.403990929705216,
+    59.18185941043084,
+    59.56498866213152,
+    59.628843537414966,
+    59.68399092970522,
+    59.773968253968256,
+    60.32544217687075,
+    60.45895691609977,
+    61.09460317460317,
+    61.20199546485261,
+    61.355827664399094,
+    61.87827664399093,
+    61.95083900226757,
+    62.04081632653061,
+    62.09015873015873,
+    62.209160997732425,
+    62.444263038548755,
+    62.505215419501134,
+    62.57197278911565,
+    63.120544217687076,
+    63.45433106575964,
+    63.51528344671202,
+    63.58204081632653,
+    63.73006802721088,
+    63.79392290249433,
+    63.84907029478458,
+    63.93904761904762,
+    63.994195011337865,
+    64.51374149659864,
+    64.89396825396825,
+    64.9752380952381,
+    65.0419954648526,
+    65.1697052154195,
+    65.55283446712018,
+    65.87791383219955
   ],
   "sound_to_word": {
     "click_low": "I",
@@ -116,172 +602,1636 @@
   },
   "decoded_sequence": [
     [
-      1,
+      4,
       "click_high",
       "warning",
       0.102
     ],
     [
-      4,
-      "click_high",
-      "warning",
+      8,
+      "click_low",
+      "I",
       0.223
     ],
     [
       0,
-      "hum_mid",
-      "am",
+      "hum_high",
+      "safe",
       0.551
     ],
     [
-      2,
-      "chirp_up",
-      "question",
+      3,
+      "hum_low",
+      "what",
       0.772
     ],
     [
-      4,
-      "click_high",
-      "warning",
+      7,
+      "hum_mid",
+      "am",
       1.309
     ],
     [
-      5,
-      "hum_low",
-      "what",
+      0,
+      "hum_high",
+      "safe",
       1.672
     ],
     [
-      5,
-      "hum_low",
-      "what",
+      0,
+      "hum_high",
+      "safe",
       1.791
     ],
     [
       0,
-      "hum_mid",
-      "am",
+      "hum_high",
+      "safe",
       1.913
     ],
     [
-      8,
-      "chirp_up",
-      "question",
+      3,
+      "hum_low",
+      "what",
       2.148
     ],
     [
       0,
-      "hum_mid",
-      "am",
+      "hum_high",
+      "safe",
       2.781
     ],
     [
       0,
-      "hum_mid",
-      "am",
+      "hum_high",
+      "safe",
       3.007
     ],
     [
-      7,
-      "chirp_down",
-      "danger",
+      2,
+      "chord_simple",
+      "understand",
       3.242
     ],
     [
-      1,
+      4,
       "click_high",
       "warning",
       3.556
     ],
     [
-      1,
+      4,
       "click_high",
       "warning",
       3.666
     ],
     [
-      10,
+      4,
       "click_high",
       "warning",
       3.776
     ],
     [
-      5,
-      "hum_low",
-      "what",
+      10,
+      "chord_alien",
+      "critical",
       4.304
     ],
     [
       9,
-      "chord_simple",
-      "understand",
+      "click_mid",
+      "here",
       4.365
     ],
     [
-      3,
-      "hum_mid",
-      "am",
+      6,
+      "chirp_down",
+      "danger",
       4.432
     ],
     [
-      4,
-      "click_high",
-      "warning",
+      8,
+      "click_low",
+      "I",
       4.583
     ],
     [
-      5,
-      "hum_low",
-      "what",
+      0,
+      "hum_high",
+      "safe",
       4.897
     ],
     [
-      0,
-      "hum_mid",
-      "am",
+      5,
+      "chord_rich",
+      "need",
       5.03
     ],
     [
-      8,
-      "chirp_up",
-      "question",
+      3,
+      "hum_low",
+      "what",
       5.3
     ],
     [
       0,
-      "hum_mid",
-      "am",
+      "hum_high",
+      "safe",
       6.078
     ],
     [
-      7,
-      "chirp_down",
-      "danger",
+      2,
+      "chord_simple",
+      "understand",
       6.319
     ],
     [
-      4,
-      "click_high",
-      "warning",
+      7,
+      "hum_mid",
+      "am",
       6.647
     ],
     [
       0,
-      "hum_mid",
-      "am",
+      "hum_high",
+      "safe",
       7.024
     ],
     [
-      1,
+      4,
       "click_high",
       "warning",
       7.242
     ],
     [
-      6,
-      "unknown",
-      "?",
+      3,
+      "hum_low",
+      "what",
       7.369
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      8.13
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      8.258
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      8.992
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      9.355
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      9.465
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      10.005
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      10.089
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      10.144
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      10.234
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      10.376
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      10.995
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      11.111
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      11.645
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      12.031
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      12.124
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      12.19
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      12.309
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      12.379
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      12.469
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      12.559
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      13.09
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      13.157
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      13.224
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      13.369
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      14.147
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      14.521
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      14.759
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      15.134
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      15.45
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      15.978
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      16.208
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      16.492
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      17.218
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      17.604
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      17.865
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      18.393
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      18.617
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      19.151
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      19.435
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      19.81
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      20.126
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      20.66
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      20.747
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      20.814
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      20.921
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      21.055
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      21.269
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      21.403
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      21.51
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      22.088
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      22.161
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      22.21
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      22.3
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      22.419
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      22.474
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      22.529
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      22.619
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      22.674
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      22.796
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      23.075
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      23.124
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      23.214
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      23.304
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      23.841
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      23.96
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      24.094
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      24.825
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      25.136
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      25.272
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      26.05
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      26.285
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      27.014
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      27.344
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      27.606
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      27.728
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      28.012
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      28.688
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      28.761
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      28.81
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      28.891
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      29.025
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      29.353
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      29.434
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      29.515
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      29.565
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      30.084
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      30.154
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      30.209
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      30.299
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      30.467
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      30.54
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      30.589
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      30.639
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      31.187
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      31.335
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      31.472
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      31.835
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      32.36
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      32.595
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      32.923
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      33.045
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      33.135
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      33.248
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      33.355
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      33.53
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      34.296
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      34.429
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      34.792
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      34.92
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      35.605
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      35.915
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      36.052
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      36.435
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      36.812
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      37.497
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      37.57
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      37.66
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      37.817
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      38.043
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      38.667
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      38.792
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      39.105
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      39.227
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      39.607
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      39.689
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      39.755
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      40.29
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      40.339
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      40.394
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      40.484
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      40.539
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      40.67
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      40.905
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      40.989
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      41.079
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      41.134
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      41.276
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      41.912
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      42.275
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      42.405
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      42.519
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      42.678
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      43.297
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      43.41
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      43.952
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      44.26
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      44.388
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      45.119
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      45.482
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      45.61
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      45.845
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      46.08
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      46.861
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      46.954
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      47.134
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      47.47
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      47.537
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      47.604
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      47.732
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      47.862
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      48.594
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      48.652
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      48.733
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      48.782
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      48.924
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      48.985
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      49.052
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      49.604
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      49.929
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      50.196
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      50.335
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      51.046
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      51.168
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      51.386
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      51.513
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      51.85
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      51.917
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      51.984
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      52.529
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      52.59
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      52.657
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      52.791
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      52.927
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      53.658
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      53.708
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      53.757
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      53.838
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      53.989
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      54.05
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      54.117
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      54.265
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      54.329
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      54.384
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      54.474
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      54.529
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      54.642
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      55.423
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      55.69
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      55.821
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      55.914
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      56.5
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      56.584
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      56.674
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      56.729
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      56.874
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      57.542
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      57.655
+    ],
+    [
+      5,
+      "chord_rich",
+      "need",
+      57.789
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      58.067
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      58.404
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      59.182
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      59.565
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      59.629
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      59.684
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      59.774
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      60.325
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      60.459
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      61.095
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      61.202
+    ],
+    [
+      4,
+      "click_high",
+      "warning",
+      61.356
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      61.878
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      61.951
+    ],
+    [
+      2,
+      "chord_simple",
+      "understand",
+      62.041
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      62.09
+    ],
+    [
+      0,
+      "hum_high",
+      "safe",
+      62.209
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      62.444
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      62.505
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      62.572
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      63.121
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      63.454
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      63.515
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      63.582
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      63.73
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      63.794
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      63.849
+    ],
+    [
+      1,
+      "chirp_up",
+      "question",
+      63.939
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      63.994
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      64.514
+    ],
+    [
+      10,
+      "chord_alien",
+      "critical",
+      64.894
+    ],
+    [
+      9,
+      "click_mid",
+      "here",
+      64.975
+    ],
+    [
+      6,
+      "chirp_down",
+      "danger",
+      65.042
+    ],
+    [
+      7,
+      "hum_mid",
+      "am",
+      65.17
+    ],
+    [
+      8,
+      "click_low",
+      "I",
+      65.553
+    ],
+    [
+      3,
+      "hum_low",
+      "what",
+      65.878
     ]
   ],
   "sentences_detected": [
@@ -289,48 +2239,48 @@
       "start_time": 0.102,
       "words": [
         "warning",
-        "warning",
-        "am",
-        "question"
+        "I",
+        "safe",
+        "what"
       ],
       "sounds": [
         "click_high",
-        "click_high",
-        "hum_mid",
-        "chirp_up"
+        "click_low",
+        "hum_high",
+        "hum_low"
       ]
     },
     {
       "start_time": 1.309,
       "words": [
-        "warning",
-        "what",
-        "what",
         "am",
-        "question"
+        "safe",
+        "safe",
+        "safe",
+        "what"
       ],
       "sounds": [
-        "click_high",
-        "hum_low",
-        "hum_low",
         "hum_mid",
-        "chirp_up"
+        "hum_high",
+        "hum_high",
+        "hum_high",
+        "hum_low"
       ]
     },
     {
       "start_time": 2.781,
       "words": [
-        "am",
-        "am",
-        "danger",
+        "safe",
+        "safe",
+        "understand",
         "warning",
         "warning",
         "warning"
       ],
       "sounds": [
-        "hum_mid",
-        "hum_mid",
-        "chirp_down",
+        "hum_high",
+        "hum_high",
+        "chord_simple",
         "click_high",
         "click_high",
         "click_high"
@@ -339,41 +2289,844 @@
     {
       "start_time": 4.304,
       "words": [
-        "what",
-        "understand",
-        "am",
-        "warning",
-        "what",
-        "am",
-        "question"
+        "critical",
+        "here",
+        "danger",
+        "I",
+        "safe",
+        "need",
+        "what"
       ],
       "sounds": [
-        "hum_low",
-        "chord_simple",
-        "hum_mid",
-        "click_high",
-        "hum_low",
-        "hum_mid",
-        "chirp_up"
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "click_low",
+        "hum_high",
+        "chord_rich",
+        "hum_low"
       ]
     },
     {
       "start_time": 6.078,
       "words": [
+        "safe",
+        "understand",
         "am",
-        "danger",
+        "safe",
         "warning",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "chord_simple",
+        "hum_mid",
+        "hum_high",
+        "click_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 8.13,
+      "words": [
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 8.992,
+      "words": [
         "am",
         "warning",
-        "?"
+        "what"
       ],
       "sounds": [
         "hum_mid",
+        "click_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 10.005,
+      "words": [
+        "question",
+        "question",
+        "question",
+        "danger",
+        "what"
+      ],
+      "sounds": [
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
         "chirp_down",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 10.995,
+      "words": [
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 11.645,
+      "words": [
+        "am",
+        "critical",
+        "here",
+        "danger",
+        "question",
+        "question",
+        "question",
+        "what"
+      ],
+      "sounds": [
+        "hum_mid",
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 13.09,
+      "words": [
+        "critical",
+        "here",
+        "danger",
+        "am"
+      ],
+      "sounds": [
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "hum_mid"
+      ]
+    },
+    {
+      "start_time": 14.147,
+      "words": [
+        "am",
+        "safe",
+        "question",
+        "I",
+        "what"
+      ],
+      "sounds": [
+        "hum_mid",
+        "hum_high",
+        "chirp_up",
+        "click_low",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 15.978,
+      "words": [
+        "safe",
+        "need",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "chord_rich",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 17.218,
+      "words": [
+        "am",
+        "need",
+        "what"
+      ],
+      "sounds": [
+        "hum_mid",
+        "chord_rich",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 18.393,
+      "words": [
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 19.151,
+      "words": [
+        "need",
+        "question",
+        "I",
+        "what"
+      ],
+      "sounds": [
+        "chord_rich",
+        "chirp_up",
+        "click_low",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 20.66,
+      "words": [
+        "critical",
+        "here",
+        "danger",
+        "safe",
+        "safe",
+        "safe",
+        "critical",
+        "what"
+      ],
+      "sounds": [
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "hum_high",
+        "hum_high",
+        "hum_high",
+        "chord_alien",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 22.088,
+      "words": [
+        "understand",
+        "understand",
+        "understand",
+        "safe",
+        "question",
+        "question",
+        "question",
+        "question",
+        "danger",
+        "need",
+        "question",
+        "question",
+        "question",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "hum_high",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_down",
+        "chord_rich",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 23.841,
+      "words": [
+        "safe",
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 24.825,
+      "words": [
+        "I",
+        "safe",
+        "am"
+      ],
+      "sounds": [
+        "click_low",
+        "hum_high",
+        "hum_mid"
+      ]
+    },
+    {
+      "start_time": 26.05,
+      "words": [
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 27.014,
+      "words": [
+        "understand",
+        "need",
+        "warning",
+        "need",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_rich",
+        "click_high",
+        "chord_rich",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 28.688,
+      "words": [
+        "understand",
+        "understand",
+        "understand",
+        "safe",
+        "I",
+        "understand",
+        "understand",
+        "understand",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "hum_high",
+        "click_low",
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 30.084,
+      "words": [
+        "question",
+        "question",
+        "question",
+        "danger",
+        "understand",
+        "understand",
+        "understand",
+        "what"
+      ],
+      "sounds": [
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_down",
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 31.187,
+      "words": [
+        "critical",
+        "danger",
+        "am",
+        "warning"
+      ],
+      "sounds": [
+        "chord_alien",
+        "chirp_down",
+        "hum_mid",
+        "click_high"
+      ]
+    },
+    {
+      "start_time": 32.36,
+      "words": [
+        "safe",
+        "I",
+        "understand",
+        "understand",
+        "safe",
+        "critical",
+        "danger",
+        "am"
+      ],
+      "sounds": [
+        "hum_high",
+        "click_low",
+        "chord_simple",
+        "chord_simple",
+        "hum_high",
+        "chord_alien",
+        "chirp_down",
+        "hum_mid"
+      ]
+    },
+    {
+      "start_time": 34.296,
+      "words": [
+        "safe",
+        "am",
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_mid",
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 35.605,
+      "words": [
+        "I",
+        "safe",
+        "am",
+        "question",
+        "what"
+      ],
+      "sounds": [
+        "click_low",
+        "hum_high",
+        "hum_mid",
+        "chirp_up",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 37.497,
+      "words": [
+        "understand",
+        "understand",
+        "understand",
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 38.667,
+      "words": [
+        "warning",
+        "I",
+        "warning",
+        "am",
+        "critical",
+        "here",
+        "what"
+      ],
+      "sounds": [
+        "click_high",
+        "click_low",
         "click_high",
         "hum_mid",
+        "chord_alien",
+        "click_mid",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 40.29,
+      "words": [
+        "question",
+        "question",
+        "question",
+        "question",
+        "danger",
+        "safe",
+        "question",
+        "question",
+        "question",
+        "danger",
+        "what"
+      ],
+      "sounds": [
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_down",
+        "hum_high",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_down",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 41.912,
+      "words": [
+        "am",
+        "warning",
+        "critical",
+        "danger",
+        "what"
+      ],
+      "sounds": [
+        "hum_mid",
         "click_high",
-        "unknown"
+        "chord_alien",
+        "chirp_down",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 43.297,
+      "words": [
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 43.952,
+      "words": [
+        "understand",
+        "warning",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "click_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 45.119,
+      "words": [
+        "question",
+        "safe",
+        "safe",
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "chirp_up",
+        "hum_high",
+        "hum_high",
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 46.861,
+      "words": [
+        "critical",
+        "danger",
+        "I",
+        "critical",
+        "here",
+        "danger",
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "chord_alien",
+        "chirp_down",
+        "click_low",
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 48.594,
+      "words": [
+        "understand",
+        "understand",
+        "understand",
+        "understand",
+        "critical",
+        "here",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "chord_alien",
+        "click_mid",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 49.604,
+      "words": [
+        "understand",
+        "need",
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_rich",
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 51.046,
+      "words": [
+        "warning",
+        "safe",
+        "safe",
+        "I",
+        "critical",
+        "here",
+        "what"
+      ],
+      "sounds": [
+        "click_high",
+        "hum_high",
+        "hum_high",
+        "click_low",
+        "chord_alien",
+        "click_mid",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 52.529,
+      "words": [
+        "critical",
+        "here",
+        "danger",
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 53.658,
+      "words": [
+        "understand",
+        "understand",
+        "understand",
+        "understand",
+        "critical",
+        "here",
+        "danger",
+        "question",
+        "question",
+        "question",
+        "question",
+        "danger",
+        "am"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_down",
+        "hum_mid"
+      ]
+    },
+    {
+      "start_time": 55.423,
+      "words": [
+        "need",
+        "warning",
+        "critical",
+        "what"
+      ],
+      "sounds": [
+        "chord_rich",
+        "click_high",
+        "chord_alien",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 56.5,
+      "words": [
+        "question",
+        "question",
+        "question",
+        "danger",
+        "what"
+      ],
+      "sounds": [
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_down",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 57.542,
+      "words": [
+        "safe",
+        "safe",
+        "need",
+        "I",
+        "am"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_high",
+        "chord_rich",
+        "click_low",
+        "hum_mid"
+      ]
+    },
+    {
+      "start_time": 59.182,
+      "words": [
+        "am",
+        "question",
+        "question",
+        "question",
+        "what"
+      ],
+      "sounds": [
+        "hum_mid",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 60.325,
+      "words": [
+        "safe",
+        "what"
+      ],
+      "sounds": [
+        "hum_high",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 61.095,
+      "words": [
+        "critical",
+        "danger",
+        "warning"
+      ],
+      "sounds": [
+        "chord_alien",
+        "chirp_down",
+        "click_high"
+      ]
+    },
+    {
+      "start_time": 61.878,
+      "words": [
+        "understand",
+        "understand",
+        "understand",
+        "safe",
+        "safe",
+        "critical",
+        "here",
+        "what"
+      ],
+      "sounds": [
+        "chord_simple",
+        "chord_simple",
+        "chord_simple",
+        "hum_high",
+        "hum_high",
+        "chord_alien",
+        "click_mid",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 63.121,
+      "words": [
+        "I",
+        "critical",
+        "here",
+        "danger",
+        "question",
+        "question",
+        "question",
+        "question",
+        "what"
+      ],
+      "sounds": [
+        "click_low",
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "chirp_up",
+        "hum_low"
+      ]
+    },
+    {
+      "start_time": 64.514,
+      "words": [
+        "am",
+        "critical",
+        "here",
+        "danger",
+        "am",
+        "I",
+        "what"
+      ],
+      "sounds": [
+        "hum_mid",
+        "chord_alien",
+        "click_mid",
+        "chirp_down",
+        "hum_mid",
+        "click_low",
+        "hum_low"
       ]
     }
   ]

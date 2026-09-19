@@ -110,3 +110,53 @@ This is saved into `dictionary.json` and used in the next notebook to map cluste
 | `audio/elbow_curve.png` | Inertia vs K plot |
 | `audio/clusters_pca.png` | 2D scatter plot of clusters |
 | `audio/clusters_timeline.png` | Cluster ID of each unit over time |
+
+## Update — Limitations and Manual Cluster Map
+What we found after improvement
+
+After expanding the dataset to 50 sentences and adding MFCC features, the PCA projection showed significantly more structure. Several clusters formed visually distinct separated groups. However, inspecting which true sound types actually landed in each cluster revealed a fundamental problem — every cluster contained a mix of all 11 sound types with no clear dominant winner.
+
+Example from cluster 0:
+
+hum_mid       × 9
+chord_alien   × 5
+chirp_up      × 4
+hum_low       × 3
+click_mid     × 3
+... (all other types also present)
+
+No cluster had a strong enough majority to be reliably labeled by the automatic ground truth comparison.
+
+## Why this happens
+
+Our synthesized sounds share overlapping acoustic properties in MFCC space. The chord variants (chord_simple, chord_rich, chord_alien) differ only in their frequency combinations — their envelopes, durations and overall energy profiles are nearly identical. Similarly the three click types differ only in frequency. K-Means operates on Euclidean distance in feature space — if two sound types produce similar feature vectors, no amount of data or features will cleanly separate them without redesigning the sounds themselves.
+
+## Manual cluster map
+
+Rather than relying on the automatic ground truth assignment, a manual cluster map was built by inspecting the average dominant frequency and duration of each cluster and reasoning about which sound type best matched:
+
+python
+manual_cluster_map = {
+    '0'  : 'hum_high',
+    '1'  : 'chirp_up',
+    '2'  : 'chord_simple',
+    '3'  : 'hum_low',
+    '4'  : 'click_high',
+    '5'  : 'chord_rich',
+    '6'  : 'chirp_down',
+    '7'  : 'hum_mid',
+    '8'  : 'click_low',
+    '9'  : 'click_mid',
+    '10' : 'chord_alien',
+}
+
+This improved word sequence coherence but translation accuracy remains approximate.
+
+## Planned improvements
+Redesign synthesized sounds with wider acoustic separation — larger frequency gaps, more distinct envelope shapes
+Reduce vocabulary from 11 to 5-6 types that are genuinely separable
+Try DBSCAN or Gaussian Mixture Models instead of K-Means — these handle non-spherical clusters better
+Test on real microphone audio where natural variation may produce cleaner cluster boundaries
+Current accuracy
+
+Clustering accuracy on synthesized data is approximately 35-40%. The pipeline architecture is correct and the end-to-end flow works. Accuracy is expected to improve significantly when tested on real-world audio input.
