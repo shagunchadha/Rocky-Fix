@@ -3,3 +3,4 @@ audio/*.wav
 data/*.npy
 frontend/node_modules/
 .env
+README_PROJECT_CONTEXT.md

@@ -5,6 +5,7 @@ import Waveform from './components/Waveform'
 import TranscriptList from './components/TranscriptList'
 import { startMockTranslation } from './services/mockTranslation'
 import Starfield from './components/Starfield'
+import CharacterWidget from './components/CharacterWidget'
 
 export default function App(){
   const [status, setStatus]           = React.useState('Idle')
@@ -39,6 +40,7 @@ export default function App(){
       <Starfield />
       <div className="grid-overlay" />
       <div className="scan-line" />
+      <CharacterWidget isRecording={isRecording} />
 
       <div className="relative z-10 flex flex-col min-h-screen">
         <HUDHeader status={status} connectionState="Local" />
